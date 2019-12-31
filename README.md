@@ -14,7 +14,7 @@ Replace YOUR_COMMA_SEPARATED_PACKAGE_PREFIXES with your packages.
 <repositories>
     ...
     <repository>
-        <id>github-trho</id>
+        <id>github</id>
         <url>https://maven.pkg.github.com/trho/RxStacktrace</url>
     </repository>
 </repositories>
