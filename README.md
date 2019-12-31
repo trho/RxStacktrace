@@ -23,7 +23,7 @@ Replace YOUR_COMMA_SEPARATED_PACKAGE_PREFIXES with your packages.
     <dependency>
       <groupId>io.github.trho.rxstacktrace</groupId>
       <artifactId>RxStacktrace</artifactId>
-      <version>1.0.3</version>
+      <version>1.0.4</version>
     </dependency>
 </dependencies>
     
